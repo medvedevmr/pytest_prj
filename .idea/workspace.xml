@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06e04d13-b28a-42f3-8f2d-7c5273c2bbd6" name="Changes" comment="First Simple Tests">
-      <change afterPath="$PROJECT_DIR$/source/shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_circle.py" afterDir="false" />
+    <list default="true" id="06e04d13-b28a-42f3-8f2d-7c5273c2bbd6" name="Changes" comment="Simple Class Tests">
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_rectangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_circle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
       <updated>1706697826843</updated>
       <workItem from="1706697846119" duration="5769000" />
       <workItem from="1706780887687" duration="1198000" />
-      <workItem from="1706785923989" duration="2611000" />
+      <workItem from="1706785923989" duration="4831000" />
     </task>
     <task id="LOCAL-00001" summary="First Simple Tests">
       <option name="closed" value="true" />
@@ -95,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706712944798</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Simple Class Tests">
+      <option name="closed" value="true" />
+      <created>1706788705985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706788705985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Simple Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Simple Tests" />
+    <MESSAGE value="Simple Class Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple Class Tests" />
   </component>
 </project>
