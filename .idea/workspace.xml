@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06e04d13-b28a-42f3-8f2d-7c5273c2bbd6" name="Changes" comment="Sharing Parameters">
-      <change afterPath="$PROJECT_DIR$/tests/test_square.py" afterDir="false" />
+    <list default="true" id="06e04d13-b28a-42f3-8f2d-7c5273c2bbd6" name="Changes" comment="Marking and Parametrize">
+      <change afterPath="$PROJECT_DIR$/source/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_my_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_my_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,8 @@
       <workItem from="1706697846119" duration="5769000" />
       <workItem from="1706780887687" duration="1198000" />
       <workItem from="1706785923989" duration="4987000" />
-      <workItem from="1706876829878" duration="2493000" />
+      <workItem from="1706876829878" duration="2744000" />
+      <workItem from="1707073571184" duration="2228000" />
     </task>
     <task id="LOCAL-00001" summary="First Simple Tests">
       <option name="closed" value="true" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706792461298</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Marking and Parametrize">
+      <option name="closed" value="true" />
+      <created>1706887153670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706887153670</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +133,7 @@
     <MESSAGE value="First Simple Tests" />
     <MESSAGE value="Simple Class Tests" />
     <MESSAGE value="Sharing Parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sharing Parameters" />
+    <MESSAGE value="Marking and Parametrize" />
+    <option name="LAST_COMMIT_MESSAGE" value="Marking and Parametrize" />
   </component>
 </project>
